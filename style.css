@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.profile-image {
+    display: block;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    margin-top: 40px;
+}
+
+.name {
+    font-size: 26px;
+    margin-bottom: 4px;
+}
+
+.title {
+    font-size: 15px;
+    font-weight: normal;
+    margin-top: 4px;
+}
+
+.link {
+    background-color: #E0E0E0;
+    display: inline-block;
+    width: 320px;
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+footer {
+    margin-top: 40px;
+    font-size: 13px;
+}
