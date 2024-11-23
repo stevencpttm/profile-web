@@ -36,3 +36,8 @@ footer {
     margin-top: 40px;
     font-size: 13px;
 }
+
+.hello {
+    font-style: italic;
+    color: blue;
+}
